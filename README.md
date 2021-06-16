@@ -1,1 +1,1 @@
-# Dictionary
+# A Dictionary Application.
